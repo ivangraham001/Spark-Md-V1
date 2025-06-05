@@ -1,6 +1,6 @@
 //==BANK,CHANGE DETAILS TO YOURS===//
-global.bankname = "Opay"
-global.banknumber = "7045989058"
+global.bankname = " DIENET GHOST"
+global.banknumber = "704706667"
 global.bankowner = "ᴀsᴋ ғᴏʀ ɴᴀᴍᴇ"
 //==========  CPANEL COMMAND FILL BOTH ===============\\
 global.domain = '_' // Fill in your domain, don't put a / at the end of the link
