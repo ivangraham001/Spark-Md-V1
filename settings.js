@@ -6,14 +6,14 @@ global.domainotp = "https://claudeotp.com/api"
 global.apikeyotp = "a395f97fe99f4fad0e790d10af518b9a"
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
-global.ig = 'https://wa.me/2348106182921'
+global.ig = 'https://wa.me/254704706667'
 global.yt = 'https://youtube.me/@voltagefx6'
 global.ttowner = '-'
 global.ownername = 'ᴠᴏʟᴛᴀɢᴇ ʟᴏʀᴅ ᴅᴇᴠ' 
-global.owner = ['2348106182921'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
-global.ownernomer = '2348106182921'
+global.owner = ['254704706667'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
+global.ownernomer = '254704706667'
 global.socialm = 'https://github.com/voltagefx12'
-global.location = 'Nigeria' 
+global.location = 'Kenya' 
 //========================setting Payment=====================\\
 global.nodana = '7045989058' // IT'S BLANK IF IT'S NOT EXISTING
 global.nogopay = '7045989058' // IT'S BLANK IF IT'S NOT EXISTING 
@@ -23,11 +23,11 @@ global.andana = '' // IT'S BLANK IF IT'S NOT EXISTING
 global.angopay = '' // IT'S BLANK IF IT'S NOT EXISTING
 global.anovo = '' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting bot===========================\\
-global.botname = "sᴘᴀʀᴋ ᴍᴅ"
-global.ownernumber = '2348106182921'
-global.botnumber = '2348106182921'
-global.ownername = 'ᴠᴏʟᴛᴀɢᴇ'
-global.ownerNumber = ["2348106182921@s.whatsapp.net"]
+global.botname = "ANONGHOST ᴍᴅ"
+global.ownernumber = '254704706667'
+global.botnumber = '2254704706667'
+global.ownername = 'DIENET GHOST'
+global.ownerNumber = ["254704706667@s.whatsapp.net"]
 global.ownerweb = "https://lynk.id/voltagefx6"
 global.websitex = "https://lynk.id/voltagefx6"
 global.wagc = "https://whatsapp.com/channel/0029VadGmhj05MUdFlOLuf0y"
